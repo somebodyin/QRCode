@@ -1,6 +1,6 @@
 # QRCode element (React)
 
-<img src="https://github.com/somebodyin/QRCode/tree/master/src/assets/desktop_view.png" width="760"/>
+<img src="https://github.com/somebodyin/QRCode/blob/master/src/assets/desktop_view.png?raw=true" width="760"/>
 
 In the project directory, you can run:
 
