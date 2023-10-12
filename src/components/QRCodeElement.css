@@ -1,0 +1,28 @@
+
+.qr-element {
+    width: 280px;
+    background-color: hsl(0, 0%, 100%);
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.qr-element img {
+    width: 280px;
+    height: 280px;
+    border-radius: 10px;
+}
+
+.qr-element h1 {
+    font-size: 20px;
+}
+
+.qr-element p {
+    color: #999999;
+}
+
+.qr-description {
+    margin: 0 20px 0 20px;
+}
